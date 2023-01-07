@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-```
+```html
 <html>
 <head>
 <title>TIME TABLE</title>
