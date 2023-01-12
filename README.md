@@ -114,3 +114,8 @@ Execute the program
 ```
 # OUTPUT:
 ![output](/timetable.png)
+
+## RESULT
+This is the HTML code to show an output of Timetable.
+
+
